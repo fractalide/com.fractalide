@@ -52,7 +52,7 @@
                                          :href "/news/" "Fractal News"))
                                  (div :class "item"
                                       (a :class "ui small header"
-                                         :href "/new-problem/" "new problem"))
+                                         :href "/component/" "new problem"))
                                  (account-link)))
                        (div :class "ui secondary segment"
                             (div :class "ui hidden divider")

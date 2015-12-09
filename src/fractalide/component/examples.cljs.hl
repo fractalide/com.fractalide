@@ -1,4 +1,4 @@
-(ns fractalide.new-problem.examples)
+(ns fractalide.component.examples)
 
 ; separate file used to stop the editor formatter from destroying examples whitespace.
 
@@ -51,7 +51,8 @@ component! {
 ")
 
 (def capnp
-"struct Date {
+"@0xba54b95877b229c7;
+struct Date {
   year @0 :Int16;
   month @1 :UInt8;
   day @2 :UInt8;

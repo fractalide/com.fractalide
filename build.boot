@@ -65,7 +65,7 @@
             "auth/"
             "fvm/"
             "news/"
-            "new-problem/"
+            "component/"
             "non-programmer-cut-op-costs/"
             "non-programmer-quick-build/"
             "privacy-policy/"

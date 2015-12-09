@@ -15,7 +15,7 @@
         [fractalide.fvm.index]
         [fractalide.auth.index]
         [fractalide.news.index]
-        [fractalide.new-problem.index]
+        [fractalide.component.index]
         [fractalide.non-programmer-cut-op-costs.index]
         [fractalide.non-programmer-quick-build.index]
         [fractalide.privacy-policy.index]
@@ -137,7 +137,7 @@
    "/fvm/" fractalide.fvm.index/pg
    "/auth/" fractalide.auth.index/pg
    "/news/" fractalide.news.index/pg
-   "/new-problem/" fractalide.new-problem.index/pg
+   "/component/" fractalide.component.index/pg
    "/non-programmer-cut-op-costs/" fractalide.non-programmer-cut-op-costs.index/pg
    "/non-programmer-quick-build/" fractalide.non-programmer-quick-build.index/pg
    "/privacy-policy/" fractalide.privacy-policy.index/pg
